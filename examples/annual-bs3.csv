@@ -1,0 +1,201 @@
+FinDate,Institutional_sector_name,Institutional_sector_code,Descriptor,SNA08TRANS,Asset_liability_code,Status,Values
+12/31/08,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,225544
+12/31/09,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,243315
+12/31/10,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,259381
+12/31/11,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,262596
+12/31/12,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,267100
+12/31/13,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,273639
+12/31/14,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,285309
+12/31/15,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,296896
+12/31/16,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,REVISED,311332
+12/31/17,Corporate business enterprises,141,Capital Account Opening balances Produced non-financial assets,LS00000,AN10000,FINAL,331983
+12/31/08,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,135478
+12/31/09,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,143787
+12/31/10,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,141630
+12/31/11,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,145450
+12/31/12,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,138599
+12/31/13,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,137405
+12/31/14,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,144660
+12/31/15,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,REVISED,154157
+12/31/16,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,REVISED,170682
+12/31/17,Corporate business enterprises,141,Capital Account Opening balances Non-produced non-financial assets,LS00000,AN20000,FINAL,158806
+12/31/08,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,361022
+12/31/09,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,387102
+12/31/10,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,401011
+12/31/11,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,408046
+12/31/12,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,405699
+12/31/13,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,411044
+12/31/14,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,429969
+12/31/15,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,451053
+12/31/16,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,REVISED,482014
+12/31/17,Corporate business enterprises,141,Capital Account Opening balances Total non-financial assets,LS00000,AN00000,FINAL,490789
+12/31/08,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,19922
+12/31/09,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,22117
+12/31/10,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,17916
+12/31/11,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,18722
+12/31/12,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,22139
+12/31/13,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,21562
+12/31/14,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,23240
+12/31/15,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,REVISED,25056
+12/31/16,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,REVISED,26237
+12/31/17,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Gross fixed capital formation,P051G00,AN10000,FINAL,26962
+12/31/08,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-14407
+12/31/09,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-16171
+12/31/10,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-17160
+12/31/11,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-17061
+12/31/12,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-17261
+12/31/13,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-17652
+12/31/14,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-18319
+12/31/15,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-18895
+12/31/16,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,REVISED,-20385
+12/31/17,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Consumption of fixed capital,P051C00,AN10000,FINAL,-21608
+12/31/08,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,1434
+12/31/09,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,64
+12/31/10,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,-1156
+12/31/11,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,454
+12/31/12,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,754
+12/31/13,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,777
+12/31/14,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,1814
+12/31/15,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,1380
+12/31/16,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,REVISED,617
+12/31/17,Corporate business enterprises,141,Capital Account Net transactions in produced non-financial assets Change in inventories,P052000,AN10000,FINAL,1443
+12/31/08,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,6949
+12/31/09,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,6010
+12/31/10,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,-400
+12/31/11,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,2115
+12/31/12,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,5632
+12/31/13,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,4687
+12/31/14,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,6735
+12/31/15,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,REVISED,7541
+12/31/16,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,REVISED,6469
+12/31/17,Corporate business enterprises,141,Capital Account Total net transactions in produced non-financial assets,P051000,AN10000,FINAL,6797
+12/31/08,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-379
+12/31/09,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-69
+12/31/10,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-298
+12/31/11,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,FINAL,-224
+12/31/12,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-152
+12/31/13,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-472
+12/31/14,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-339
+12/31/15,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-111
+12/31/16,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,REVISED,-259
+12/31/17,Corporate business enterprises,141,Capital Account Net transactions in non-produced non-financial assets Net purchases of land,NP01000,AN20000,FINAL,-324
+12/31/08,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,-8
+12/31/09,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,-1145
+12/31/10,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,-34
+12/31/11,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,-81
+12/31/12,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,-75
+12/31/13,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,2
+12/31/14,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,-76
+12/31/15,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,234
+12/31/16,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,REVISED,-340
+12/31/17,Corporate business enterprises,141,"Capital Account Net transactions in non-produced non-financial assets Purchases of non-produced non-financial assets, net",NP02000,AN20000,FINAL,-67
+12/31/08,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,-387
+12/31/09,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,-1214
+12/31/10,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,-332
+12/31/11,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,FINAL,-305
+12/31/12,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,-227
+12/31/13,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,-470
+12/31/14,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,-415
+12/31/15,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,123
+12/31/16,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,REVISED,-599
+12/31/17,Corporate business enterprises,141,Capital Account Total net transactions in non-produced non-financial assets,NP00000,AN20000,FINAL,-391
+12/31/08,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,FINAL,-1451
+12/31/09,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,FINAL,-1847
+12/31/10,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,REVISED,4232
+12/31/11,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,REVISED,957
+12/31/12,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,REVISED,359
+12/31/13,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,REVISED,1802
+12/31/14,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,REVISED,5487
+12/31/15,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,REVISED,6773
+12/31/16,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,REVISED,7118
+12/31/17,Corporate business enterprises,141,ISA Saving (net),B08N000,ISA,FINAL,4715
+12/31/08,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-267
+12/31/09,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-196
+12/31/10,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-178
+12/31/11,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-142
+12/31/12,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-145
+12/31/13,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-189
+12/31/14,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-260
+12/31/15,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-276
+12/31/16,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-322
+12/31/17,Corporate business enterprises,141,ISA Net capital taxes receivable,D910000,ISA,FINAL,-381
+12/31/08,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,FINAL,-630
+12/31/09,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,FINAL,-543
+12/31/10,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,FINAL,-359
+12/31/11,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,REVISED,4198
+12/31/12,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,REVISED,81
+12/31/13,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,FINAL,-160
+12/31/14,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,REVISED,-174
+12/31/15,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,REVISED,-286
+12/31/16,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,REVISED,-385
+12/31/17,Corporate business enterprises,141,ISA Net capital transfers receivable,D990000,ISA,FINAL,281
+12/31/08,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,FINAL,-8924
+12/31/09,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,FINAL,-7375
+12/31/10,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,REVISED,4431
+12/31/11,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,REVISED,3202
+12/31/12,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,REVISED,-5123
+12/31/13,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,REVISED,-2753
+12/31/14,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,REVISED,-1305
+12/31/15,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,REVISED,-1448
+12/31/16,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,REVISED,534
+12/31/17,Corporate business enterprises,141,Capital Account Net lending (+) / net borrowing (-) ISA,B09C000,ISA,FINAL,-1787
+12/31/08,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,243315
+12/31/09,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,259381
+12/31/10,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,262596
+12/31/11,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,267100
+12/31/12,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,273639
+12/31/13,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,285309
+12/31/14,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,296896
+12/31/15,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,311332
+12/31/16,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,REVISED,331983
+12/31/17,Corporate business enterprises,141,Capital Account Closing balances Produced non-financial assets,LE00000,AN10000,FINAL,351562
+12/31/08,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,FINAL,143787
+12/31/09,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,FINAL,141630
+12/31/10,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,FINAL,145450
+12/31/11,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,FINAL,138599
+12/31/12,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,FINAL,137405
+12/31/13,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,FINAL,144660
+12/31/14,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,REVISED,154157
+12/31/15,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,REVISED,170682
+12/31/16,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,REVISED,158806
+12/31/17,Corporate business enterprises,141,Capital Account Closing balances Non-produced non-financial assets,LE00000,AN20000,FINAL,183144
+12/31/08,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,387102
+12/31/09,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,401011
+12/31/10,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,408046
+12/31/11,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,405699
+12/31/12,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,411044
+12/31/13,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,429969
+12/31/14,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,451053
+12/31/15,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,482014
+12/31/16,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,REVISED,490789
+12/31/17,Corporate business enterprises,141,Capital Account Closing balances Total non-financial assets,LE00000,AN00000,FINAL,534706
+12/31/08,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/09,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/10,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/11,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/12,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/13,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/14,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/15,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/16,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/17,Corporate business enterprises,141,Financial assets Opening balance monetary gold and special drawing rights,LS00000,AFA0100,FINAL,0
+12/31/08,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,22898
+12/31/09,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,26481
+12/31/10,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,29518
+12/31/11,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,28520
+12/31/12,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,28706
+12/31/13,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,31102
+12/31/14,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,28739
+12/31/15,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,REVISED,33156
+12/31/16,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,REVISED,36033
+12/31/17,Corporate business enterprises,141,Financial assets Opening balance currency and deposits,LS00000,AFA0200,FINAL,39880
+12/31/08,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,1867
+12/31/09,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,1908
+12/31/10,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,2622
+12/31/11,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,3685
+12/31/12,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,2955
+12/31/13,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,2264
+12/31/14,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,5269
+12/31/15,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,REVISED,1376
+12/31/16,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,REVISED,2987
+12/31/17,Corporate business enterprises,141,Financial assets Opening balance debt securities,LS00000,AFA0300,FINAL,5703
