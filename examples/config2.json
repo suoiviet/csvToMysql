@@ -2,7 +2,7 @@
     "mysql":{
         "host":"localhost",
         "user":"root",
-        "passwd":"password",
+        "passwd":"password1",
         "db":"test"
     },
     "table":"annual",
